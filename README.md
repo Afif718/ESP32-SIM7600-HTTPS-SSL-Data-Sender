@@ -23,5 +23,5 @@ This project demonstrates how to send sensor data using the 4G SIM7600 (A7670C) 
 - ESP_SSLClient library -> https://github.com/mobizt/ESP_SSLClient
 - ArduinoJson library
 
-![image](https://github.com/user-attachments/assets/27695620-57ff-443c-9b63-685342e1e119)
+
 
