@@ -160,6 +160,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Afif** — [@Afif718](https://github.com/Afif718)
+**M. H. A. Afif** — [@Afif718](https://github.com/Afif718)
 
 > *Built for engineers who need reliable, secure data transmission beyond Wi-Fi range.* 📡
